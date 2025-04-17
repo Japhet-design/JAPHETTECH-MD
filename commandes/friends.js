@@ -16,8 +16,8 @@ zokou({
     mybotpic: _0x43a6e2
   } = _0x2358bf;
   const _0x21b56d = [{
-    'nom': "RAHMANI OWNER",
-    'numero': "255693629079" 
+    'nom': "JAPHETTECH OWNER",
+    'numero': "255788484546" 
   },{
     'nom': "DEPLOMENT SERVICES",
     'numero': "254736761160"
@@ -31,8 +31,8 @@ zokou({
     'nom': "TimnasaTech",
     'numero': "255784766591"
   }, {
-    'nom': "dev Rahmani",
-    'numero': "255693629079"
+    'nom': "dev Japhettech",
+    'numero': "255788484546"
   }, {
     'nom': "",
     'numero': ""
@@ -58,7 +58,7 @@ zokou({
     'nom': "🤕",
     'numero': "load...."
   }];
-  let _0x2d5c7e = "Hello👋  *I'm RAHMANI MD Wa Bot* \nThe Following Numbers Are For   *RAHMANI-MD* Agents, \nYou Can Ask Them Anything Regarding RAHMANI MD\nFollow Our Channel For More Tech :https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T \n*KEEP USING RAHMANI-MD*:\n\n";
+  let _0x2d5c7e = "Hello👋  *I'm JAPHETTECH MD Wa Bot* \nThe Following Numbers Are For   *JAPHETTECH-MD* Agents, \nYou Can Ask Them Anything Regarding JAPHETTECH MD\nFollow Our Channel For More Tech :https://whatsapp.com/channel/0029VavShWD1iUxb \n*KEEP USING JAPHETTECH-MD*:\n\n";
   for (const _0x14eeec of _0x21b56d) {
     _0x2d5c7e += "----------------\n(●) " + _0x14eeec.nom + " : https://wa.me/" + _0x14eeec.numero + "\n";
   }
