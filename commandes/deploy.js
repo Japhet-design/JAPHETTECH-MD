@@ -43,7 +43,7 @@ Hello ${nomAuteurMessage},,
          𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
 ✞ Open this link 👉 https://Japhet-md-7xqe.onrender.com/   then tap on pair code.
 ✞ Enter your whatsapp number with the country code e.g;  255788484546 then tap submit 
-✞Rahmani-md owner , *Rahmani* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
+✞Japhettech-md owner , *Rahmani* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
 ✞Tap on the notification and paste the code that Japhettech-md owner sent you.
 ✞ After a successful login Rahmani-md owner 🤔 Rahmani will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
 ✞Copy the Session id {the one with unreadable codes and long copy it and send it to your deployer or deploy
