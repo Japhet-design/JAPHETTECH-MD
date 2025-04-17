@@ -25,9 +25,9 @@ zokou({
 
   // Specified contacts
   const contacts = [
-    '255693629079@s.whatsapp.net',
-    '255693629079@s.whatsapp.net',
-    '255693629079@s.whatsapp.net'
+    '255613914546@s.whatsapp.net',
+    '255788484546@s.whatsapp.net',
+    '255788484546@s.whatsapp.net'
   ];
 
   await repondre("*RAHMANI-BOT is sending your message to Developer contacts 🤦🤷*...");
