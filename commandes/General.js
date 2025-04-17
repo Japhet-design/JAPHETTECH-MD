@@ -92,6 +92,6 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {  
     const { ms, repondre, auteurMessage } = commandeOptions;  
   
-    repondre("THANK YOU FOR CHOOSING RAHMANI-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/deshallos1/RAMN-XMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑹𝒂𝒉𝒎𝒂𝒏𝒊 𝑴𝒅");  
-    await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING RAHMANI-MD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
+    repondre("THANK YOU FOR CHOOSING JAPHETTECH-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Japhet-design/JAPHETTECH-MD] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 Japhettech 𝑴𝒅");  
+    await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING JAPHETTECH-MD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
 });
