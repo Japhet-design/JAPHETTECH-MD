@@ -36,7 +36,7 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363345407274799@newsletter",
-          'newsletterName': "RAHMANI-XMD",
+          'newsletterName': "JAPHET-MD",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
