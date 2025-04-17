@@ -35,12 +35,12 @@ zokou({
           gifPlayback: true,
           contextInfo: {
             externalAdReply: {
-              title: `Rahmani-Md Deployer`,
+              title: `Japhettech-Md Deployer`,
               body: "Premium WhatsApp Bot",
               thumbnailUrl: mediaUrl,
               mediaType: 2,
               mediaUrl: "https://files.catbox.moe/aktbgo.jpg",
-              sourceUrl: "https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T"
+              sourceUrl: "https://whatsapp.com/channel"
             }
           }
         }, { quoted: ms });
@@ -51,12 +51,12 @@ zokou({
           caption: infoMsg,
           contextInfo: {
             externalAdReply: {
-              title: `Rahmani-Md Deployer`,
+              title: `Japhettech-Md Deployer`,
               body: "Premium WhatsApp Bot",
               thumbnailUrl: mediaUrl,
               mediaType: 1,
               mediaUrl: "https://files.catbox.moe/aktbgo.jpg",
-              sourceUrl: "https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T"
+              sourceUrl: "https://whatsapp.com/channel"
             }
           }
         }, { quoted: ms });
