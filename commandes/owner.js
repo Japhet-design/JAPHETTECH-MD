@@ -20,7 +20,7 @@ for ( const sudo of sudos) { if (sudo) { sudonumero = sudo.replace(/[^0-9]/g, ''
 zokou({ nomCom: "dev", categorie: "Devs", reaction: "🚜" }, async (dest, zk, commandeOptions) => { const { ms, mybotpic } = commandeOptions;
 
 const devs = [
-  { nom: "Rahmani", numero: "255693629079" },
+  { nom: "Japhet", numero: "255788484546" },
   { nom: "Qart", numero: "255613300056" },
 ];
 
