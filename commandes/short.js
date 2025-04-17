@@ -85,7 +85,7 @@ let downloadData;
         mimetype: 'audio/mpeg',
         contextInfo: {
           externalAdReply: {
-            title: "RAHMANI-MD" ,
+            title: "JAPHETTECH-MD" ,
             body: "Tap her to follow our channel",
             mediaType: 1,
             sourceUrl:"https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T",
