@@ -15,7 +15,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
     try {
         // Liste des options NSFW
         const nsfwList = `
-*•RAHMANI-BOT NSFW🤤🔞•*
+*•JAPHETTECH-BOT NSFW🤤🔞•*
 
 1️⃣ *EJACULATION*
 2️⃣ *PENIS*
