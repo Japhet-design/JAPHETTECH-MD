@@ -10,7 +10,7 @@ const getContextInfo = (title = '', userJid = '', thumbnailUrl = '') => ({
   isForwarded: true,
   forwardedNewsletterMessageInfo: {
     newsletterJid: "120363345407274799@newsletter",
-    newsletterName: "RAHMAN XMD",
+    newsletterName: "JAPHETTECH-MD",
     serverMessageId: Math.floor(100000 + Math.random() * 900000),
   },
   externalAdReply: {
