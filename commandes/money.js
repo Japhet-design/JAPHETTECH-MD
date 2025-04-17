@@ -34,11 +34,11 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-1.\n> Recipient Name:** Benard wangari wachira  
-2.\n> Mobile Number:** 0799056874 (Safaricom) 
+1.\n> Recipient Name:** Japhet Wilson Selebeya 
+2.\n> Mobile Number:** 0788484546 (Airtel) 
 3.\n> Hello 👋\n${nomAuteurMessage}
 5.\n> Payment Method:** Online Payment  
-6.\n> Country:** Kenya 🇰🇪
+6.\n> Country:** Tanzania 🇹🇿 
 `;
     
 let menuMsg = `
