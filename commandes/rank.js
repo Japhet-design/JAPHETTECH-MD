@@ -211,7 +211,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ 𝚁𝙰𝙷𝙼𝙰𝙽𝙸_𝚇𝙼𝙳 rank┗━━━┓
+┏━━━┛ JAPHETTECH-MD rank┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
