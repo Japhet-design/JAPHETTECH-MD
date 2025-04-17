@@ -21,7 +21,7 @@ zokou({
                  `• *Name:* ${s.OWNER_NAME}\n` +
                  `• *Date:* ${date}\n` +
                  `• *Time:* ${temps}\n\n` +
-                 `> *Powered by Rahmani Md*`;
+                 `> *Powered by Japhettech Md*`;
 
   try {
     const mediaUrl = await mybotpic();
