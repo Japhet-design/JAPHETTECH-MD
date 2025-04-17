@@ -22,7 +22,7 @@ zokou({ nomCom: "vv", aliases: ["send", "keep"], categorie: "General" }, async (
       } else if (msgRepondu.stickerMessage) {
         const media = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage);
         const stickerMess = new Sticker(media, {
-          pack: '𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃',
+          pack: 'JAPHET-MD',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
