@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *RAHMANI-MD-BOT*`
+ *JAPHETTECH-MD-BOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
