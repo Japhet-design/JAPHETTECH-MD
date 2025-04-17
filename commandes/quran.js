@@ -46,7 +46,7 @@ zokou({
     
     const data = response.data.data;
     const messageText = `
-ᬑ *RAHMANI-MD QURAN SURAH* ᬒ
+ᬑ *JAPHETTECH-MDQURAN SURAH* ᬒ
 
 *🕌 Quran: The Holy Book*
 📜 *Surah:* 🕌❤️${data.number}: ${data.asma.ar.long} (${data.asma.en.long})❤️🕌
