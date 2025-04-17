@@ -62,7 +62,7 @@ zokou({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "RAHMANI-MD QURAN SURAH",
+          title: "JAPHETTECH-MD QURAN SURAH",
           body: `We're reading: ${data.asma.en.long}`,
           mediaType: 1,
           thumbnailUrl: conf.URL, 
