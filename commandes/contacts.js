@@ -217,7 +217,7 @@ zokou({ nomCom: 'scriptpk',
 )
 
 
-zokou({ nomCom: 'rahmani',
+zokou({ nomCom: 'Japhet',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🤷', 
@@ -269,19 +269,19 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(` ┏━━━━━━━━━━━━━━
-┃𝚁𝙰𝙷𝙼𝙰𝙽𝙸_𝙼𝙳-BOT 🎉🎉🎉 
+┃JAPHETTECH-MD BOT🎉🎉🎉 
 | THUG 
 ┃LIFE💀
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 rahmaniMd 𖥘
+❶ || Creator = 𖥘 JaphettechMd 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
+❷ || WhattsApp Channel = https://whatsapp.com/channel
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://wa.me/c/255693629079 👈
+Wanna talk to me?👉 https://wa.me/c/255788484546 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-© *Rahmani Md *`) 
+© *Japhettech Md *`) 
 
    
 
