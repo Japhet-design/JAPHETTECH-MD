@@ -34,7 +34,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭──────────────────❂
-┊❂╭───*𝐀𝐍𝐘𝐖𝐀𝐘-𝐗𝐌𝐃*────❂
+┊❂╭───*JAPHET-TMD*────❂
 ┊✺┊ *User* : ${s.OWNER_NAME}
 ┊✺┊ *Mode* : ${mode}
 ┊✺╰───────────────❂
@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  **𝐀𝐍𝐘𝐖𝐀𝐘-𝐗𝐌𝐃 COMMANDS*
+  **JAPHET-TMD COMMANDS*
 `;
 
     for (const cat in coms) {
@@ -61,7 +61,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *𝐀𝐍𝐘𝐖𝐀𝐘-𝐗𝐌𝐃*                                         
+  *JAPHET-TMD*                                         
 *╰═════════════❂*
 `;
 
