@@ -21,11 +21,11 @@
 
 
 <p align="center">
-<a href="https://github.com/Next5x/followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x?color=pink&style=flat-square"></a>
+<a href="https://github.com/Japhet-design/followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x?color=pink&style=flat-square"></a>
 <a href="https://github.com/Next5x/TIMNASA_TMD1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Next5x/TIMNASA_TMD1?color=pink&style=flat-square"></a>
-<a href="https://github.com/Next5x/TIMNASA_TMD1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Next5x/TIMNASA_TMD1?color=pink&style=flat-square"></a>
-<a href="https://github.com/tryphonee/MATELEE-TMD1/"><img title="Size" src="https://img.shields.io/github/repo-size/Japhet-design/JAPHET-MD-67?style=flat-square&color=pink"></a>
-<a href="https://github.com/Japhet-design/JAPHET-MD-67/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-pink.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Japhet-design/JAPHETTECH-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Japhet-design/JAPHETTECH-TMDcolor=pink&style=flat-square"></a>
+<a href="https://github.com/Japhet-design/JAPHETTECH-MD?/"><img title="Size" src="https://img.shields.io/github/repo-size/Japhet-design/JAPHETTECH-MD?style=flat-square&color=pink"></a>
+<a href="https://github.com/Japhet-design/JAPHETTECH-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-pink.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -94,7 +94,7 @@
 
 ## JAPHET CONTACT
   
-<a href="https://wa.me/255784766591"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+<a href="https://wa.me/255613914546"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a 
 </p>
