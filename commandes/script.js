@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *RAHMANI-MD IMPORTANT INFO* 
+   *JAPHETTECH-MD IMPORTANT INFO* 
 ❒═════════════════❒
 *GITHUB LINK*
-> https://github.com/deshallos1/RAMN-XMD
+> https://github.com Japhet-design/JAPHETTECH-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
+> https://whatsapp.com/channel/0029VavShWD1iUxb6kjK2T
 ⁠
 ╭══════════════════⊷❍
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Rahmani*
+│❒⁠⁠⁠⁠ *DEV* : *Japhettech*
 ╰══════════════════⊷❍
 `;
     
 let menuMsg = `
 ❒═══════════❒
-       *RAHMANI-MD*
+       *JAPHET-MD*
 ❒═══════════❒`;
 
    var lien = mybotpic();
