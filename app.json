@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/lvbdn3.jpg",
+  "logo": "https://files.catbox.moe/sllxfr.jpg",
   "repository": "https://github.com/Japhet-design/JAPHETTECH-MD",
   "succes_url": "/",
   "stack": "container",
@@ -74,7 +74,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "RAHMAN-XMD",
+      "value": "JAPHET-MD",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -99,12 +99,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "rahman",
+      "value": "JAPHET-MD",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/aktbgo.jpg",
+      "value": "https://files.catbox.moe/sllxfr.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -114,7 +114,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547')",
-      "value": "+255 693 629 079",
+      "value": "+255613914546",
       "required": false
     },
     "WARN_COUNT": {
