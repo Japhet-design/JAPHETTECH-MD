@@ -49,11 +49,11 @@ const date = moment().format('DD/MM/YYYY');
  5. It will load for sometime then pk tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 💻enjoy💻Rahmani💀Md
+ 💻enjoy💻Japhettech💀Md
  `;
     
 let menuMsg = `
-> Made by : © 𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳
+> Made by : © JAPHETTECH-MD
 `;
 
    var lien = mybotpic();
