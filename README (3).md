@@ -1,4 +1,4 @@
-
+*###JAPHET TMD###*
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=pink+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +JAPHET+MD;WHATSAPP+BOT+CREATED+BY+JAPHET-KING" alt="Typing SVG" /></a>
 
 
@@ -74,7 +74,7 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/Japhet-design/JAPHET-MD-67"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=pink&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Japhet-design/JAPHETTECH-MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=pink&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
