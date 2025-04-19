@@ -1,4 +1,4 @@
-*       JAPHETTECH-MD*     
+       JAPHETTECH-MD     
 
    <a 
  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=pink+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +JAPHET+MD;WHATSAPP+BOT+CREATED+BY+JAPHET-KING" alt="Typing SVG" /></a>
@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝚆𝙰𝚃𝚂𝙰𝙿𝙿.𝙱𝙾𝚃+𝙱𝚈+matelee+tech)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=90&duration=3000&pause=1000&width=700&height=150&lines=JAPHETTECH-MD;Whatsapp+Bot+By+JAPHET+)](https://git.io/typing-svg)
 
 
 
