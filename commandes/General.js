@@ -59,10 +59,10 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
     const { ms, mybotpic } = commandeOptions;  
   
     const devs = [  
-        { nom: "dev RahmaniMd", numero: "255693629079" }  
+        { nom: "dev Japhettech-MD", numero: "255613914546" }  
     ];  
   
-    let message = "WELCOME TO RAHMANI-MD HELP CENTER! ASK FOR HELP FROM THE DEVELOPER BELOW:\n\n";  
+    let message = "WELCOME TO JAPHETTECH-MD HELP CENTER! ASK FOR HELP FROM THE DEVELOPER BELOW:\n\n";  
     for (const dev of devs) {  
         message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;  
     }  
