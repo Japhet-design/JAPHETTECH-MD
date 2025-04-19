@@ -50,7 +50,7 @@ zokou({
       caption: `🎶 *${title}* - ${artist}\n\n${lyrics}\n\n*Powered by Rahmani-Md*`,
       contextInfo: {
         externalAdReply: {
-          title: "Rahmani-Md Lyrics Finder",
+          title: "Japhettech-Md Lyrics Finder",
           body: "Get any song lyrics instantly",
           thumbnail: await (await axios.get(imageUrl, { responseType: "arraybuffer" })).data,
           mediaType: 1,
